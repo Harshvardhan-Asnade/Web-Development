@@ -28,14 +28,6 @@ This repository contains a full-stack web development project, leveraging modern
 
 ---
 
-## 📌 Features
-✅ Responsive and modern UI/UX design  
-✅ User authentication (JWT / OAuth)  
-✅ RESTful API with CRUD operations  
-✅ Secure and optimized database structure  
-✅ Error handling and validation  
-✅ Deployment-ready configuration  
-
 ---
 
 ## 📂 Project Structure
