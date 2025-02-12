@@ -1,0 +1,12 @@
+   /* Universal Selector -- APPLY CSS IN FULL WEBSITE*/
+   * {
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    background-color: black;
+}
+
+h1,
+h2 {
+    color: red;
+
+}
