@@ -1,0 +1,13 @@
+span>button {
+    color: white;
+    background-color: blue;
+}
+
+input[type="text"]{
+    color: red;
+    
+}
+input[type="Password"]{
+    color: red;
+    
+}
