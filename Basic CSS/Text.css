@@ -1,0 +1,49 @@
+h1 {
+    color: red;
+    text-decoration: double rgb(0, 0, 0) underline;
+    text-align: center;
+    font-weight: 500;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 1px;
+}
+
+p {
+    color: black;
+    text-align: left;
+    text-align: justify;
+    font-family: 'Courier New', Courier, monospace;
+    letter-spacing: 0.2px;
+    line-height: 1.4;
+}
+
+strong {
+    letter-spacing: 1px;
+    line-height: 1.4;
+    color: red;
+    text-decoration: wavy blueviolet underline;
+}
+
+h2 {
+    letter-spacing: 1px;
+    line-height: 1.4;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(3, 104, 0);
+    text-decoration: dashed black underline;
+    font-weight: 500;
+}
+
+em {
+    letter-spacing: 1px;
+    line-height: 1.4;
+    color: rgba(255, 0, 0, 0.781);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+}
+
+b {
+    letter-spacing: 1px;
+    line-height: 1.4;
+    color: rgba(255, 0, 0, 0.781);
+    font-family: 'Segoe UI';
+    font-weight: 900;
+}
